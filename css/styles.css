@@ -1,0 +1,20 @@
+body {
+  background-color: #7ebdb4;
+}
+
+hr {
+  background-color: inherit;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: darkslategrey;
+}
+
+h3 {
+  color: darkslategrey;
+}
